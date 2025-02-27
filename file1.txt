@@ -1,5 +1,2 @@
 Hello World!
-adobe 
-12
-34 
-56
+My name is Lev, writing to Java
